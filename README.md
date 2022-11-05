@@ -109,3 +109,5 @@ To stop docker conatiner
 docker stop <container_id>
 `
 
+Output can be found at
+https://ml-project-basic.herokuapp.com/
